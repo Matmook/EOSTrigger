@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/EOSTrigger_resources">
+        <file alias="main_icon">camera-photo.png</file>
+        <file>weather-fog.png</file>
+        <file>application-exit.png</file>
+        <file>media-playback-start.png</file>
+        <file>media-playback-stop.png</file>
+        <file>system-run.png</file>
+        <file>background.jpg</file>
+        <file>view-fullscreen.png</file>
+        <file>process-stop.png</file>
+        <file>view-refresh.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
